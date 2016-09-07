@@ -1,2 +1,2 @@
 # gtip
-CSS ToolTips
+Common CSS ToolTips
